@@ -1,0 +1,24 @@
+{
+  "name": "database-project",
+  "version": "1.0.0",
+  "description": "\"More a project using JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNeeevs/database-project.git"
+  },
+  "keywords": [
+    "js",
+    "study",
+    "tdd"
+  ],
+  "author": "Lucas Nevs <lucsaneves.dev@outlook.com> (http://nvsmarketing.000webhostapp.com/marketing-digital/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LNeeevs/database-project/issues"
+  },
+  "homepage": "https://github.com/LNeeevs/database-project#readme"
+}
